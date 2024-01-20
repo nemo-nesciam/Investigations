@@ -1,5 +1,7 @@
 ### Profile Template Description
 
+![Visual Represenation fo the Profile Template](https://github.com/nemo-nesciam/Investigations/blob/main/assets/visual_representation_of_the_profile_tamplate.png "Visual Represenation fo the Profile Template")
+
 **Title:** Hacker Group Profile Template
 
 **Description:** 
